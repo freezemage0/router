@@ -1,0 +1,17 @@
+{
+  "name": "freezemage0/router",
+  "description": "Simple routing (PSR are not supported)",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Freezemage",
+      "email": "freezemage0@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Freezemage\\Router\\": "src/"
+    }
+  }
+}
